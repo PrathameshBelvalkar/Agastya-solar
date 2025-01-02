@@ -580,3 +580,8 @@
 .logo-img {
     height: 104px;
 }
+
+.error {
+    color: red;
+    font-size: 0.9em;
+}
